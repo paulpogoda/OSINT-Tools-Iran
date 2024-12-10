@@ -23,7 +23,6 @@ Fell free to join to this project — [OSINT For Countries V2.0](https://github.
 
 ### Science
 - [SID Scienttifc Information Database](https://sid.ir/en/) 
-azmoon - http://azmoon.org/
 - [Ensani](http://ensani.ir/fa). Human Science
 - [Civilica](https://en.civilica.com)
 
