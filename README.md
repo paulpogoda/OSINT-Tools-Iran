@@ -4,7 +4,7 @@
 A list of OSINT tools that may be useful to you when conducting investigations related to  Islamic Republic of Iran. Most of local resources has versions in Persian only. Allways remember about OPSEC
 
 ## Contributions
-Fell free to join to this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
+Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
 
 ## Table of contents:
  - [Open Data portals](#open-data-portals)
