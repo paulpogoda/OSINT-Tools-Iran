@@ -1,7 +1,9 @@
 
 # OSINT-Tools-Iran
 <img src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/Flag_of_Iran.svg/640px-Flag_of_Iran.svg.png" alt="Iran_FLAG"/>
-A list of OSINT tools that may be useful to you when conducting investigations related to  Islamic Republic of Iran. Most of local resources has versions in Persian only. Allways remember about OPSEC
+A list of OSINT tools that may be useful to you when conducting investigations related to  Islamic Republic of Iran. Most of local resources has versions in Persian only. Allways remember about OPSEC.
+
+**Last Updated:** September 2025
 
 ## Contributions
 Feel free to join this project — [OSINT For Countries V2.0](https://github.com/paulpogoda/OSINT-for-countries-V2.0)
@@ -26,12 +28,13 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 - [Ensani](http://ensani.ir/fa). Human Science
 - [Civilica](https://en.civilica.com)
 
-
 ## Legal Entities
+### Read
 - [Introduction. Iran – Beneficial Ownership and Company Structures](https://learn.sayari.com/iran-beneficial-ownership-and-company-structures/)
 - [Iran Search Tips](https://learn.sayari.com/iran-search-tips/)
 - [Basic Guide for Investigating Iranian Companies](https://learn.sayari.com/basic-guide-investigating-iranian-companies/)
 - [ Official Company Registration Website](https://irsherkat.ssaa.ir/)
+### Search
 - [Rasmio](https://rasmio.com). Search for entities, use VPN with Iranian IP to create account
 - [Extracts from the commercial register of Iran](https://schmidt-export.com/extracts-foreign-commercial-registers-and-accounting-statements/extracts-commercial-register-iran). Paid. From €119 euro for extract
 - [Research in Iran](https://www.companydiligence.com/iran/). Paid. From €66.44. Investigation quote €0.00
@@ -40,6 +43,7 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ## Maps
 - [Irancarto](http://www.irancarto.cnrs.fr/index.php?l=en). Irancarto is a scientific research website edited by Bernard Hourcade and published in Paris by Mondes Iranien et Indien. The site contains over 600 maps and trilingual analyses (French, Persian, English) regarding a variety of topics such as demography, ethnology, history, language, economics, politics, and election data
 - [Province Map](https://iranopendata.org/en/map/)
+- [Neshan Maps](https://neshan.org/maps#c35.685-51.424-13z-0p) — OpenStreetMaps based project, detailed view
 
 ## Vehicles
 - [Iran on Platesmania](https://platesmania.com/ir/search)
@@ -77,3 +81,19 @@ Feel free to join this project — [OSINT For Countries V2.0](https://github.com
 ### Sanctioned
 - [Iran UANI Business Registry | Open Sanctions](https://www.opensanctions.org/datasets/ir_uani_business_registry/)
 - [Alphabetical List of Iranian Entities](https://www.iranwatch.org/iranian-entities). This page contains profiles of Iranian entities researched and written by the Wisconsin Project. These entities - persons, companies, institutes, government agencies - are thought to be contributing to Iran's nuclear, chemical, or biological weapon capabilities or to its missiles or advanced conventional weapon programs
+
+***
+
+## Legal Disclaimer
+
+This repository is for educational and legitimate investigative purposes only. Users are responsible for:
+- Complying with all applicable laws and regulations
+- Respecting terms of service for all databases and tools
+- Using information ethically and responsibly
+- Obtaining proper authorization when required
+
+The information provided is for informational purposes only and should not be considered legal advice.
+
+---
+
+**Repository maintained by the OSINT-for-Countries-V2.0 community**
